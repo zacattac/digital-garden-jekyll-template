@@ -1,22 +1,23 @@
 ---
 layout: page
-title: Home
+title: Life is a Garden
 id: home
 permalink: /
 ---
 
 # Welcome. I'm Zac Woolfolk.
+
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
+I'm working on a second brain. And overthinking about things.
+
 [[Lifes a garden]]. Dig it.
 
-[[improve my thinking]]
+You can find me on [twitter](https://www.twitter.com/zacattac/)
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@zacattac)](https://twitter.com/zacattac). 👋
+Where I got my [theme](https://github.com/maximevaillancourt/digital-garden-jekyll-template) And [how to set it up](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
 <style>
   .wrapper {
