@@ -2,15 +2,13 @@
 title: The Menzingers
 ---
 
-## My Gistory of The Menzingers
+## My History of The Menzingers
 
 The Menzingers would come on Spotify sometimes. I knew they were the Philly bar band that came up in the era of Tigers Jaw, Balance & Composure, and The Wonder Years. When they'd come on a playlist I'd focus on The Gaslight Anthem and Lucero tracks that would come.
 
 To be honest, I wrote The Menzingers off. They were too loud. Too punk. I wanted the emo side of the music, not the punk side of the music.
 
 Some years passed and *After The Party* came out and it was making Best of 2017 lists all the way from Noisey and Alternative Press to the blog-god, Stereogum.
-
-![[Screen Shot 2021-12-27 at 6.32.48 PM.png]]
 
 I gave it a couple spins and it started to trickle into my life. *Lookers* and *Thick as Thieves* made their way onto playlists and more Daily Mixes and I wouldn't press skip. It developed into *Your Wild Years* and *After the Party*.
 

@@ -7,9 +7,9 @@ permalink: /
 
 # Welcome. I'm Zac Woolfolk.
 
-I'm a [[General Hobbyist]], [[overthinker]], and [[marketer]].
+I'm a general hobbyist, [[overthinker]], and [[marketer]].
 
-I can't stop overthinking about [[Music Wormholes]].
+I can't stop overthinking about [[music]].
 
 I'm working on a second brain. And a [[digital garden]].
 
