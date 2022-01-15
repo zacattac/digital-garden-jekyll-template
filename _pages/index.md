@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Life is a Garden
+title: Wool Folk
 id: home
 permalink: /
 ---
