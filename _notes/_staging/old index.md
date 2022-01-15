@@ -20,3 +20,8 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
     max-width: 46em;
   }
 </style>
+
+
+
+## Footer information below to go between line 7 and 8 on default.html
+<footer>{% include footer.html %}</footer>
