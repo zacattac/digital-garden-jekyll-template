@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+I work in marketing, I like technology, and I used to enjoy running a lot more than I do now. Now I golf.
