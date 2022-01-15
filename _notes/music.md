@@ -1,5 +1,6 @@
 ---
 title: music
+permalink: music
 ---
 
 [[Bon Iver]]
@@ -7,8 +8,3 @@ title: music
 [[The Menzingers]]
 
 [[Spanish Love Songs]]
-
-
-
-
-
