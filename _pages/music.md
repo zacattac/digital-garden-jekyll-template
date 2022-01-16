@@ -4,7 +4,7 @@ title: music
 permalink: music
 ---
 
-# Music. I'm quite obsessed.
+# music. I'm quite obsessed.
 
 Some things I'm either thinking about or listening to when it comes to music.
 
