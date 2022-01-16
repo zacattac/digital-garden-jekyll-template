@@ -4,7 +4,7 @@ title: hobbies
 permalink: hobbies
 ---
 
-# Hobbies
+# hobbies
 
 I'm a general hobbyist.
 
