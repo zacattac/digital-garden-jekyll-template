@@ -17,11 +17,11 @@ $color-subtext: hsl(75, 10%, 40%);
 $color-border: hsl(0, 0%, 85%);
 $color-background: hsl(35,100%,92%);
 
-$d-color-primary: hsl(167, 100%, 50%);
-$d-color-text: hsl(0, 0%, 85%);
-$d-color-subtext: hsl(0, 0%, 60%);
-$d-color-border: black;
-$d-color-background: black;
+$d-color-primary: hsl(153, 23%, 46%);
+$d-color-text: hsl(12, 11%, 91%);
+$d-color-subtext: hsl(77, 41%, 67%);
+$d-color-border: hsl(0, 0%, 85%);
+$d-color-background: hsl(75, 12%, 7%);
 
 $border-radius: 4px;
 $font-family-header: 'Imbue', serif;
@@ -89,12 +89,12 @@ $font-family-main: 'Assistant', monospace;
       background: white;
     }
   }
-  img {
-	filter: grayscale(100%);
-  }
-  img:hover {
-	filter: grayscale(0%);
-  }
+  // img {
+	// filter: grayscale(100%);
+  // }
+  // img:hover {
+	// filter: grayscale(0%);
+  // }
   *:focus {
     background: hsla(167, 100%, 50%, 0.63);
     color: black !important;
@@ -193,10 +193,10 @@ a {
   // color: $color-primary;
   // &:hover {
   //   color: black !important;
-  //   background: #fffaf1;
+  //   background: #08360A;
   // }
   &.internal-link:after {
-    content: "";
+   content: "";
   }
 }
 
