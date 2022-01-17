@@ -44,14 +44,24 @@ $font-family-main: 'Assistant', monospace;
   hr {
     background: $color-border;
   }
-  a {
-    border-bottom: 1px solid $color-border;
+  // a {
+  //  border-bottom: 1px solid $color-border;
+  //  color: $color-primary;
+  //  &:hover {
+  //    color: black !important;
+  //    background: $color-background;
+  //  }
+  // }
+  a:hover {
+    color: $color-text;
+  }
+  a.internal-link {
     color: $color-primary;
     &:hover {
-      color: black !important;
-      background: $color-background;
+      color: $color-text;
     }
   }
+
   *:focus {
     background: #ffe8bc;
     color: black !important;
@@ -81,12 +91,21 @@ $font-family-main: 'Assistant', monospace;
   hr {
     background: $d-color-border;
   }
-  a {
-    border-bottom: 1px solid $color-border;
-    color: $color-primary;
+  // a {
+  //  border-bottom: 1px solid $color-border;
+  //  color: $color-primary;
+  //  &:hover {
+  //    color: black !important;
+  //    background: $color-background;
+  //  }
+  // }
+ a {
+   color: $d-color-text;
+ }
+  a.internal-link {
+    color: $d-color-primary;
     &:hover {
-      color: black !important;
-      background: $color-background;
+      color: $d-color-text;
     }
   }
   // img {
@@ -191,8 +210,6 @@ a {
   text-decoration: none;
   border-bottom: 1px solid $color-border;
   color: $color-primary;
-  &:hover {
-    color: hsl(0, 0%, 20%);
   }
   &.internal-link:after {
    content: "";
