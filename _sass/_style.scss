@@ -82,17 +82,11 @@ $font-family-main: 'Assistant', monospace;
     background: $d-color-border;
   }
   a {
-    transition: background 300ms;
-    padding: 0 0.1em;
-    text-decoration: none;
-    // border-bottom: 1px solid $color-border;
-    // color: $color-primary;
-    // &:hover {
-    //   color: black !important;
-    //   background: #fffaf1;
-    // }
-    &.internal-link:after {
-      content: "";
+    border-bottom: 1px solid $color-border;
+    color: $color-primary;
+    &:hover {
+      color: black !important;
+      background: $color-background;
     }
   }
   // img {
@@ -198,8 +192,7 @@ a {
   border-bottom: 1px solid $color-border;
   color: $color-primary;
   &:hover {
-    color: white !important;
-    background: #08360A;
+    color: hsl(0, 0%, 20%);
   }
   &.internal-link:after {
    content: "";
