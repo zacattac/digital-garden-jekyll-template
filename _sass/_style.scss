@@ -81,6 +81,9 @@ $font-family-main: 'Assistant', monospace;
   hr {
     background: $d-color-border;
   }
+  internal-link {
+    background: $d-color-background;
+  }
   a {
     border-bottom: 1px solid $d-color-border;
     color: $d-color-primary;
