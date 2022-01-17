@@ -8,8 +8,8 @@ permalink: /
 # I'm Zac.
 
 I'm a [general hobbyist](./hobbies), overthinker, and marketer.
-I don't stop thinking about [music](./music).
-I'm working on a second brain. And working on [[lifes a garden]]. Dig it.
+I don't stop thinking about [music](./music). I'm working on a [second brain](https://fortelabs.co/blog/basboverview/).
+
 You can find me on [twitter](https://www.twitter.com/zacattac/)
 
 ![merdie and I](/assets/images/merdieandi.jpg)
