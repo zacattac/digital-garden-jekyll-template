@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Welcome. I'm Zac.
+# I'm Zac.
 
 I'm a [general hobbyist](./hobbies), overthinker, and marketer.
 I don't stop thinking about [music](./music).
