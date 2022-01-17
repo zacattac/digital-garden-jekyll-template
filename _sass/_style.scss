@@ -49,7 +49,7 @@ $font-family-main: 'Assistant', monospace;
     color: $color-primary;
     &:hover {
       color: black !important;
-      background: #fffaf1;
+      background: $color-background;
     }
   }
   *:focus {
@@ -82,11 +82,17 @@ $font-family-main: 'Assistant', monospace;
     background: $d-color-border;
   }
   a {
-    border-bottom: 1px solid $d-color-border;
-    color: $d-color-primary;
-    &:hover {
-      color: black !important;
-      background: $d-color-background;
+    transition: background 300ms;
+    padding: 0 0.1em;
+    text-decoration: none;
+    // border-bottom: 1px solid $color-border;
+    // color: $color-primary;
+    // &:hover {
+    //   color: black !important;
+    //   background: #fffaf1;
+    // }
+    &.internal-link:after {
+      content: "";
     }
   }
   // img {
@@ -189,12 +195,12 @@ a {
   transition: background 300ms;
   padding: 0 0.1em;
   text-decoration: none;
-  // border-bottom: 1px solid $color-border;
-  // color: $color-primary;
-  // &:hover {
-  //   color: black !important;
-  //   background: #08360A;
-  // }
+  border-bottom: 1px solid $color-border;
+  color: $color-primary;
+  &:hover {
+    color: white !important;
+    background: #08360A;
+  }
   &.internal-link:after {
    content: "";
   }
