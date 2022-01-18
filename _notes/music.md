@@ -4,12 +4,8 @@ title: music
 permalink: /music
 ---
 
-# music. I'm quite obsessed.
+# Things I've Been Listening to This Week
 
-Some things I'm either thinking about or listening to when it comes to music.
-
-[[Ekkstacy]] - [i walk this earth all by myself](https://www.youtube.com/watch?v=G-BO2qkUob4)
-
-I've been thinking about [[The Menzingers]] - [Your Wild Years](https://www.youtube.com/watch?v=jaSSXCLpLtI) and punk rock in your 30s.
-
-I also love [this band](/spanish-love-songs).
+<img src="https://www.tapmusic.net/collage.php?user=thursdayswaitin&type=7day&size=4x4&caption=true"
+	 alt="last.fm collage" />
+<br>

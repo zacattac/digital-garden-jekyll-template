@@ -1,12 +1,15 @@
 <!-- That file is not particularly elegant. This will need a refactor at some point. -->
 <style>
+<<<<<<< HEAD
   content a.internal-link {
     border-color: #8b88e6;
     background-color: #efefff;
   }
+=======
+>>>>>>> 1d2bbdbcc12f76d3293ca6b8f66e31f595a712ad
 
   #tooltip-wrapper {
-    background: white;
+    background: #ffeed6;
     padding: 1em;
     border: 1px solid #ddd;
     border-radius: 4px;
@@ -21,16 +24,21 @@
   }
 
   #tooltip-wrapper:after {
+<<<<<<< HEAD
 		content: "";
+=======
+    background: #ffeed6;
+    content: "";
+>>>>>>> 1d2bbdbcc12f76d3293ca6b8f66e31f595a712ad
 		position: absolute;
 		z-index: 1;
 		bottom: 0;
 		left: 0;
 		pointer-events: none;
-		background-image: linear-gradient(to bottom, rgba(255,255,255, 0), rgba(255,255,255, 1) 90%);
 		width: 100%;
 		height: 75px;
   }
+
 </style>
 
 <div style="opacity: 0; display: none;" id='tooltip-wrapper'>
