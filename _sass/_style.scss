@@ -51,18 +51,11 @@ $font-family-main: 'Assistant', monospace;
   //    background: $color-background;
   //  }
   // }
-  a:hover {
-    color: $color-text;
-  }
   a.internal-link {
     color: $color-primary;
     &:hover {
-<<<<<<< HEAD
       color: black !important;
       background: #fffaf1;
-=======
-      color: $color-text;
->>>>>>> 1d2bbdbcc12f76d3293ca6b8f66e31f595a712ad
     }
   }
 
@@ -95,30 +88,12 @@ $font-family-main: 'Assistant', monospace;
   hr {
     background: $d-color-border;
   }
-<<<<<<< HEAD
   a {
     border-bottom: 1px solid $d-color-border;
     color: $d-color-primary;
     &:hover {
       color: black !important;
       background: white;
-=======
-  // a {
-  //  border-bottom: 1px solid $color-border;
-  //  color: $color-primary;
-  //  &:hover {
-  //    color: black !important;
-  //    background: $color-background;
-  //  }
-  // }
- a {
-   color: $d-color-text;
- }
-  a.internal-link {
-    color: $d-color-primary;
-    &:hover {
-      color: $d-color-text;
->>>>>>> 1d2bbdbcc12f76d3293ca6b8f66e31f595a712ad
     }
   }
   // img {
@@ -221,18 +196,12 @@ a {
   transition: background 300ms;
   padding: 0 0.1em;
   text-decoration: none;
-<<<<<<< HEAD
   // border-bottom: 1px solid $color-border;
   // color: $color-primary;
   // &:hover {
   //   color: black !important;
   //   background: #fffaf1;
   // }
-=======
-  border-bottom: 1px solid $color-border;
-  color: $color-primary;
-  }
->>>>>>> 1d2bbdbcc12f76d3293ca6b8f66e31f595a712ad
   &.internal-link:after {
     content: "";
   }
