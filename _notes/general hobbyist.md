@@ -1,10 +1,10 @@
 ---
 layout: page
-title: hobbies
+title: general hobbyist
 permalink: /hobbies
 ---
 
-# hobbies
+# Hobbies
 
 I'm a general hobbyist.
 

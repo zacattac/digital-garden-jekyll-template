@@ -26,6 +26,7 @@ $d-color-background: hsl(75, 12%, 7%);
 $border-radius: 4px;
 $font-family-header: 'Imbue', serif;
 $font-family-main: 'Assistant', monospace;
+
 @media (prefers-color-scheme: light) {
   body {
 	color: $color-text;
@@ -43,22 +44,14 @@ $font-family-main: 'Assistant', monospace;
   hr {
     background: $color-border;
   }
-  // a {
-  //  border-bottom: 1px solid $color-border;
-  //  color: $color-primary;
-  //  &:hover {
-  //    color: black !important;
-  //    background: $color-background;
-  //  }
-  // }
-  a.internal-link {
+   a {
+    border-bottom: 1px solid $color-border;
     color: $color-primary;
     &:hover {
       color: black !important;
-      background: #fffaf1;
-    }
+     background: $color-background;
+   }
   }
-
   *:focus {
     background: #ffe8bc;
     color: black !important;

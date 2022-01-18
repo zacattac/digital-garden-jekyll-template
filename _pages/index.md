@@ -7,8 +7,10 @@ permalink: /
 
 # I'm Zac.
 
-I'm a [general hobbyist](/hobbies), overthinker, and marketer.
-I don't stop listening to [music](/music). I'm working on a [second brain](https://fortelabs.co/blog/basboverview/).
+I'm a [[general hobbyist]], overthinker, and marketer.
+I don't stop listening to [[music]].
+
+I'm working on a [[second brain]]. Also working on [[sunsleeper]].
 
 You can find me on [twitter](https://www.twitter.com/zacattac/) and [letterboxd](https://letterboxd.com/zacattac/).
 
