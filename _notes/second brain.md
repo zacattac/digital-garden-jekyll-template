@@ -1,5 +1,5 @@
 ---
-title: Why a Second Brain?
+title: second brain
 ---
 
 As someone that has tried Instapaper and pinboard.in and Pocket and a few other read later services and RSS feed and general content consumption I realized nothing was sticking for me.
