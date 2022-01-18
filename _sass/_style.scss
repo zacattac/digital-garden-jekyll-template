@@ -26,7 +26,6 @@ $d-color-background: hsl(75, 12%, 7%);
 $border-radius: 4px;
 $font-family-header: 'Imbue', serif;
 $font-family-main: 'Assistant', monospace;
-
 @media (prefers-color-scheme: light) {
   body {
 	color: $color-text;
@@ -49,7 +48,7 @@ $font-family-main: 'Assistant', monospace;
     color: $color-primary;
     &:hover {
       color: black !important;
-      background: $color-background;
+      background: #fffaf1;
     }
   }
   *:focus {
@@ -82,17 +81,11 @@ $font-family-main: 'Assistant', monospace;
     background: $d-color-border;
   }
   a {
-    transition: background 300ms;
-    padding: 0 0.1em;
-    text-decoration: none;
-    // border-bottom: 1px solid $color-border;
-    // color: $color-primary;
-    // &:hover {
-    //   color: black !important;
-    //   background: #fffaf1;
-    // }
-    &.internal-link:after {
-      content: "";
+    border-bottom: 1px solid $d-color-border;
+    color: $d-color-primary;
+    &:hover {
+      color: black !important;
+      background: white;
     }
   }
   // img {
@@ -195,14 +188,14 @@ a {
   transition: background 300ms;
   padding: 0 0.1em;
   text-decoration: none;
-  border-bottom: 1px solid $color-border;
-  color: $color-primary;
-  &:hover {
-    color: white !important;
-    background: #08360A;
-  }
+  // border-bottom: 1px solid $color-border;
+  // color: $color-primary;
+  // &:hover {
+  //   color: black !important;
+  //   background: #fffaf1;
+  // }
   &.internal-link:after {
-   content: "";
+    content: "";
   }
 }
 

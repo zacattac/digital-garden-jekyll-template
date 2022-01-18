@@ -1,7 +1,7 @@
 ---
 layout: page
 title: music
-permalink: music
+permalink: /music
 ---
 
 # music. I'm quite obsessed.
