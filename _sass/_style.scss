@@ -88,6 +88,9 @@ $font-family-main: 'Assistant', monospace;
       color: black !important;
       background: white;
     }
+  content a.internal-link{
+      background-color: $d-color-background;
+    }
   }
   // img {
 	// filter: grayscale(100%);
@@ -96,7 +99,7 @@ $font-family-main: 'Assistant', monospace;
 	// filter: grayscale(0%);
   // }
   *:focus {
-    background: hsla(167, 100%, 50%, 0.63);
+    background: $d-color-background;
     color: black !important;
   }
   .backlink-box {
