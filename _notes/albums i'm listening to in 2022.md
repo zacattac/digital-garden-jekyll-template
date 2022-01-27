@@ -1,3 +1,6 @@
+---
+---
+
 ### Albums I've Listened to in 2022
 
 Just a running list that's periodically updated with something I've listened to. And maybe a note attached to it. Maybe not.

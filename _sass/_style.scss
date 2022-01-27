@@ -89,7 +89,7 @@ $font-family-main: 'Assistant', monospace;
       background: white;
     }
   content a.internal-link{
-      background-color: $d-color-background;
+      background-color: $d-color-background !important;
     }
   }
   // img {
