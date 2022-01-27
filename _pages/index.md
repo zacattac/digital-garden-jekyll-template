@@ -8,7 +8,7 @@ permalink: /
 # I'm Zac.
 
 I'm a [[general hobbyist]], overthinker, and marketer.
-I don't stop listening to [[music]]. Here are a running list of [[albums I've listened to in 2022]].
+I don't stop listening to [[music]]. Here are a running list of [[albums i'm listening to in 2022]].
 
 I'm working on a [[second brain]].
 
