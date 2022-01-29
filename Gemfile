@@ -9,3 +9,7 @@ gem "jekyll-last-modified-at", git: "https://github.com/maximevaillancourt/jekyl
 gem "webrick", "~> 1.7"
 gem "nokogiri"
 gem "minima"
+
+group :jekyll_plugins do
+  gem 'jekyll-google-tag-manager'
+end

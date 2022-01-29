@@ -43,3 +43,7 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
+google:
+  tag_manager:
+    container_id: GTM-MPPRZ9F
