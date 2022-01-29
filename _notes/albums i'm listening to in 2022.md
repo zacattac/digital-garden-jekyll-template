@@ -2,8 +2,6 @@
 title: albums i'm listening to in 2022
 ---
 
-### Albums I've Listened to in 2022
-
 Just a running list that's periodically updated with something I've listened to. And maybe a note attached to it. Maybe not.
 
 1. Che Noir - food for thought - Date Entered: January 25, 2022

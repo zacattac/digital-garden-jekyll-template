@@ -1,3 +1,7 @@
+---
+title: Ray Charles
+---
+
 ### Modern Sounds in Country and Western Music Vol 1 & 2 (1962)
 
 First note: it's not country and western music - at all
