@@ -17,6 +17,6 @@ Just a running list that's periodically updated with something I've listened to.
 1. Pinegrove - 11:11  - Date Entered: January 28, 2022
 1. Joy Division - Unknown Pleasures - Date Listened: January 28, 2022
 1. Tracy chapman - Tracy Chapman  - Date Listened: January 28, 2022
-1. Ray Charles - modern sounds in country and western music (1962) - Date Listened: January 28, 2022
+1. [[Ray Charles]] - modern sounds in country and western music (1962) - Date Listened: January 28, 2022
 1. Michael Jackson - bad  - Date Listened: January 29, 2022
 1. Corduroy - Corduroy [2021] - Date Listened: January 29, 2022
