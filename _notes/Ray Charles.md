@@ -12,6 +12,8 @@ First note: it's not country and western music - at all
 
 It's an interesting album for me. It isn't what I expected Ray Charles to sound like when I think of Georgia on My Mind or whatever is slapper is.
 
-==This is more poppy. More 50s pop, early 60s pop, right before the Beatles pop. Maybe it's this R&B kinda guy doing late 50s/early 60s pop music. This blind pianist with a soulful voice doing non-soulful versions of soulful country songs.== It works.
+==This is more poppy. More 50s pop, early 60s pop, right before the Beatles pop. Maybe it's this R&B kinda guy doing late 50s/early 60s pop music. This blind pianist with a soulful voice doing non-soulful versions of soulful country songs.== 
 
-**Note to self:** Maybe I should go back and listen to the country/western versions of these songs. See if there's real soul there.
+It works.
+
+**Note to self:** Maybe I should go back and listen to the country/western versions of these songs. See if there's real soul there. [A spotify playlist of the OGs](https://open.spotify.com/playlist/71pArgIcrI3WjYfBjCtVqG?si=028345e7f5164487).
