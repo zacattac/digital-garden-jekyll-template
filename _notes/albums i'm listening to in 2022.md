@@ -22,3 +22,4 @@ Just a running list that's periodically updated with something I've listened to.
 1. [[Sonic youth]] - daydream nation (1988) - Date Listened: January 29, 2022
 1. Anais Mitchell -  Anais Mitchell - Date Listened: January 29, 2022
 1. Palm ghosts - the lost frequency (2022) - Date Listened: January 29, 2022
+1. Patti Smith - Horses - Date Listened: January 30, 2022
