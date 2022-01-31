@@ -1,6 +1,8 @@
 ---
 title: <% tp.file.title %>
+aliases: 
+tags: [' ']
+link:
 ---
-<% await tp.file.move("_notes/_staging/" + tp.file.title) %>
 
 

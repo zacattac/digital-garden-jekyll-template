@@ -4,7 +4,7 @@ title: music
 permalink: /music
 ---
 
-I'm trying to keep track of more [[albums i'm listening to in 2022]].
+I'm trying to keep track of more albums I'm [[albums i'm listening to in 2022|listening to in 2022]]
 
 ## Things I've Been Listening to This Week
 
