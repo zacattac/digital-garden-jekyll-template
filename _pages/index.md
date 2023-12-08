@@ -8,7 +8,7 @@ permalink: /
 # I'm Zac.
 
 I'm a [[general hobbyist]], overthinker, and marketer.
-I don't stop listening to [[music]]. Lately I've been back on my movie game though.
+I don't stop listening to [[music]]. test
 
 I'm working on a [[second brain]].
 
