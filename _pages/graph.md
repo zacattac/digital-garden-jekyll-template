@@ -3,7 +3,7 @@ layout: notes_graph
 title: Notes Graph
 permalink: /graph
 ---
-
+a
 <head>
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 </head>
